@@ -69,4 +69,9 @@ int main (int argc, char **argv) {
 }
 ```
 
+## Makefile
 
+![image](https://user-images.githubusercontent.com/88512549/193127111-dff94489-8ed2-4a20-b478-8f47869ce36d.png)
+
+check the manual of makefile
+man makefile
