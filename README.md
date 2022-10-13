@@ -5,7 +5,6 @@
 ```
 null terminator is part of the string, so the "s" asccii value has two bits
 ```
-![image](https://user-images.githubusercontent.com/88512549/193122055-4c6d7c87-fc0a-43af-a16c-ffd1d938b82b.png)
 
 
 
@@ -25,9 +24,7 @@ make code faster:
 ![image](https://user-images.githubusercontent.com/88512549/193122963-c36fbaa7-f653-47fa-af76-c013831721fd.png)
 
 
-for loop: 
 
-![image](https://user-images.githubusercontent.com/88512549/193123157-81448f07-794b-4e27-95cb-90662684e19f.png)
 ____________________________________________________________
 
 ## reading one byte at a time
@@ -71,7 +68,34 @@ int main (int argc, char **argv) {
 
 ## Makefile
 
-![image](https://user-images.githubusercontent.com/88512549/193127111-dff94489-8ed2-4a20-b478-8f47869ce36d.png)
 
 check the manual of makefile
 man makefile
+
+
+## lecture | oct 13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
